@@ -19,6 +19,7 @@ public final class Constants {
       public static final int LEFTMOTOR1_ID = 2;
       public static final int LEFTMOTOR2_ID = 4;
       public static final int SUCKER_ID = 5;
+      public static final int OPENER_ID = 6;
    public static final class JOYSTICK{
       public static final int X = 7;
       public static final int Y = 8;
